@@ -1,0 +1,16 @@
+User-agent: Yandex
+Crawl-delay: 5
+Allow: /
+Disallow: /fonts
+Disallow: /libs
+Disallow: /js
+Disallow: README.md
+Host: https://rehab-22.ru/
+Sitemap: https://rehab-22.ru/sitemap.xml
+
+User-agent: *
+Crawl-delay: 5
+
+
+User-agent: Slurp
+Crawl-delay: 100
