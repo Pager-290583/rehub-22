@@ -6,6 +6,7 @@ Disallow: /libs
 Disallow: /js
 Disallow: README.md
 Disallow: /page
+Disallow: /index.html
 
 Host: https://rehab-22.ru/
 Sitemap: https://rehab-22.ru/sitemap.xml
