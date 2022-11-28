@@ -5,15 +5,37 @@
     <lastmod>2022-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo.svg</image:loc>
+        <image:title>Главная страница центра реабилитации</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo-white.svg</image:loc>
+        <image:title>Главная страница центра реабилитации</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://rehab-22.ru/services.html</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo.svg</image:loc>
+        <image:title>Услуги реабилитации при зависимости</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo-white.svg</image:loc>
+        <image:title>Услуги реабилитации при зависимости</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://rehab-22.ru/news.html</loc>
+    <lastmod>2022-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rehab-22.ru/terms-and-conditions.html</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -24,27 +46,45 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo.svg</image:loc>
+        <image:title>Лечение алкоголизма в реабилитационном центре Трезвость</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://rehab-22.ru/assets/img/alko.webp</image:loc>
         <image:title>Лечение алкоголизма в Барнауле по прграмме 12 шагов</image:title>
       </image:image>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/terms-and-conditions.html</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo-white.svg</image:loc>
+        <image:title>лечение алкогольной зависимости</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://rehab-22.ru/contacts.html</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo.svg</image:loc>
+        <image:title>Контакты анонимного центра реабилитации в Барнауле</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo-white.svg</image:loc>
+        <image:title>Реабилитационный центр Трезвость</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://rehab-22.ru/#!</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo.svg</image:loc>
+        <image:title>Главная страница центра реабилитации</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo-white.svg</image:loc>
+        <image:title>Главная страница центра реабилитации</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://rehab-22.ru/news-post.html</loc>
@@ -64,8 +104,30 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo.svg</image:loc>
+        <image:title>Лечение наркомании в Барнауле</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://rehab-22.ru/assets/img/subheader-corporate.webp</image:loc>
         <image:title>Лечение наркомании в Барнауле по программе 12 шагов</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo-white.svg</image:loc>
+        <image:title>Лечение наркомании в Барнауле</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://rehab-22.ru/about-us.html</loc>
+    <lastmod>2022-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo.svg</image:loc>
+        <image:title>О центре реабилитации</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://rehab-22.ru/assets/img/logo-white.svg</image:loc>
+        <image:title>О центре реабилитации в Барнауле</image:title>
       </image:image>
   </url>
   <url>
@@ -73,83 +135,5 @@
     <lastmod>2022-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/about-us.html</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/typography.html</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/tabs-and-accordions.html</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/news-post.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/privacy-policy.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/terms-and-conditions.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/index.html</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/news.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/index.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/tabs-and-accordions.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/assets/img/subheader-corporate.png</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/single-service.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://rehab-22.ru/typography.html#!</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
