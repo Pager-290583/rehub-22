@@ -787,6 +787,15 @@ only screen and (min-width: 567px) and (max-width: 900px) and (orientation: land
 .text-center-tel {
     text-align: center;
     padding-top: 30px;
+    background-color: #1859B4;
+    color: #ffffff;
+}
+
+.text-tel {
+    font-size: 26px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #ffffff;
 }
 
 .text-right {
