@@ -784,6 +784,11 @@ only screen and (min-width: 567px) and (max-width: 900px) and (orientation: land
     text-align: center;
 }
 
+.text-title {
+    font-size: 2em;
+    font-weight: 600;
+}
+
 .text-center-tel {
     text-align: center;
     padding-top: 30px;
