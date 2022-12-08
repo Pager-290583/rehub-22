@@ -4,7 +4,7 @@ Allow: /
 Disallow: /fonts
 Disallow: /libs
 Disallow: /js
-Disallow: README.md
+Disallow: /README.md
 Disallow: /page
 Disallow: /index.html
 
