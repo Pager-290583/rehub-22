@@ -298,7 +298,7 @@ only screen and (min-width: 567px) and (max-width: 900px) and (orientation: land
     }
 
     .table-responsive table {
-        width: 650px;
+        width: 100%;
     }
 
     .table-responsive-outer {
